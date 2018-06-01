@@ -3,7 +3,7 @@
 
 #check the serial device, default value is "ttyUSB0"
 ls /dev | grep ttyS
-McuUSBSerialDevice="ttyS3"
+McuUSBSerialDevice="ttyS2"
 
 
 stty sane
